@@ -4,7 +4,7 @@
 //
 //  Created by lqm on 16/8/23.
 //  Copyright © 2016年 LQM. All rights reserved.
-//
+////参考http://www.jianshu.com/p/9ee12b7e2709
 
 #import "AppDelegate.h"
 

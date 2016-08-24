@@ -15,6 +15,7 @@
 		391E0F4A1D6C028500844165 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 391E0F481D6C028500844165 /* LaunchScreen.storyboard */; };
 		391E0F551D6C028500844165 /* FuwenbenTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 391E0F541D6C028500844165 /* FuwenbenTests.m */; };
 		391E0F601D6C028500844165 /* FuwenbenUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 391E0F5F1D6C028500844165 /* FuwenbenUITests.m */; };
+		391E0F981D6C396100844165 /* LQM_Label.m in Sources */ = {isa = PBXBuildFile; fileRef = 391E0F971D6C396100844165 /* LQM_Label.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		391E0F5B1D6C028500844165 /* FuwenbenUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FuwenbenUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		391E0F5F1D6C028500844165 /* FuwenbenUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FuwenbenUITests.m; sourceTree = "<group>"; };
 		391E0F611D6C028500844165 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		391E0F961D6C396100844165 /* LQM_Label.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LQM_Label.h; sourceTree = "<group>"; };
+		391E0F971D6C396100844165 /* LQM_Label.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LQM_Label.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				391E0F3E1D6C028500844165 /* AppDelegate.m */,
 				391E0F401D6C028500844165 /* ViewController.h */,
 				391E0F411D6C028500844165 /* ViewController.m */,
+				391E0F961D6C396100844165 /* LQM_Label.h */,
+				391E0F971D6C396100844165 /* LQM_Label.m */,
 				391E0F431D6C028500844165 /* Main.storyboard */,
 				391E0F461D6C028500844165 /* Assets.xcassets */,
 				391E0F481D6C028500844165 /* LaunchScreen.storyboard */,
@@ -273,6 +278,7 @@
 				391E0F421D6C028500844165 /* ViewController.m in Sources */,
 				391E0F3F1D6C028500844165 /* AppDelegate.m in Sources */,
 				391E0F3C1D6C028500844165 /* main.m in Sources */,
+				391E0F981D6C396100844165 /* LQM_Label.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
